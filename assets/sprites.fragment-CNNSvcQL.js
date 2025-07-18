@@ -1,4 +1,4 @@
-import{S as e}from"./worker-enYNfKGP.js";import"./logDepthDeclaration-B1-H3jXz.js";const o="fogFragmentDeclaration",s=`#ifdef FOG
+import{S as e}from"./worker-8JHdgIdZ.js";import"./logDepthDeclaration-eUNZOX46.js";const o="fogFragmentDeclaration",s=`#ifdef FOG
 #define FOGMODE_NONE 0.
 #define FOGMODE_EXP 1.
 #define FOGMODE_EXP2 2.

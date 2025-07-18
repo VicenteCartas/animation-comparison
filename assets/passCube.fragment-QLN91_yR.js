@@ -1,4 +1,4 @@
-import{S as r}from"./worker-enYNfKGP.js";const e="passCubePixelShader",t=`varying vec2 vUV;uniform samplerCube textureSampler;
+import{S as r}from"./worker-8JHdgIdZ.js";const e="passCubePixelShader",t=`varying vec2 vUV;uniform samplerCube textureSampler;
 #define CUSTOM_FRAGMENT_DEFINITIONS
 void main(void) 
 {vec2 uv=vUV*2.0-1.0;
