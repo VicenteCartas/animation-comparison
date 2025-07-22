@@ -1,4 +1,4 @@
-import{S as e}from"./worker-8JHdgIdZ.js";import"./logDepthDeclaration-eUNZOX46.js";const r="fogVertexDeclaration",i=`#ifdef FOG
+import{S as e}from"./worker-BMK75ovY.js";import"./logDepthDeclaration-Bow-gEZ_.js";const r="fogVertexDeclaration",i=`#ifdef FOG
 varying vFogDistance: vec3f;
 #endif
 `;e.IncludesShadersStoreWGSL[r]||(e.IncludesShadersStoreWGSL[r]=i);const o="logDepthVertex",s=`#ifdef LOGARITHMICDEPTH
